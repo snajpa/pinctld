@@ -1,0 +1,16 @@
+{
+  "username": "root",
+  "password": "muchsecure",
+  "pins": [
+    {
+      "gpio": 70,
+      "active_low": false,
+      "desc": "Random pin 1"
+    },
+    {
+      "gpio": 71,
+      "active_low": false,
+      "desc": "Random pin 2"
+    }
+  ]
+}
